@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medit.Framework", "Medit.Framework\Medit.Framework.csproj", "{53FEE3ED-CAA4-48C5-B16A-0657784A4B7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medit.Framework.ConsoleTest", "Medit.Framework.ConsoleTest\Medit.Framework.ConsoleTest.csproj", "{33655F89-51FB-487B-AB75-40AC3A248F74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53FEE3ED-CAA4-48C5-B16A-0657784A4B7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53FEE3ED-CAA4-48C5-B16A-0657784A4B7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53FEE3ED-CAA4-48C5-B16A-0657784A4B7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53FEE3ED-CAA4-48C5-B16A-0657784A4B7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33655F89-51FB-487B-AB75-40AC3A248F74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33655F89-51FB-487B-AB75-40AC3A248F74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33655F89-51FB-487B-AB75-40AC3A248F74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33655F89-51FB-487B-AB75-40AC3A248F74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA79F6BE-CD13-4D7E-9FBA-060E2AFD11C0}
+	EndGlobalSection
+EndGlobal

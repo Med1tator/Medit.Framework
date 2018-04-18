@@ -1,0 +1,10 @@
+D:\personal\project\Medit.Framework\src\Medit.Framework\Medit.Framework.ConsoleTest\bin\Debug\Medit.Framework.ConsoleTest.exe.config
+D:\personal\project\Medit.Framework\src\Medit.Framework\Medit.Framework.ConsoleTest\bin\Debug\Medit.Framework.ConsoleTest.exe
+D:\personal\project\Medit.Framework\src\Medit.Framework\Medit.Framework.ConsoleTest\bin\Debug\Medit.Framework.ConsoleTest.pdb
+D:\personal\project\Medit.Framework\src\Medit.Framework\Medit.Framework.ConsoleTest\bin\Debug\Medit.Framework.dll
+D:\personal\project\Medit.Framework\src\Medit.Framework\Medit.Framework.ConsoleTest\bin\Debug\Medit.Framework.pdb
+D:\personal\project\Medit.Framework\src\Medit.Framework\Medit.Framework.ConsoleTest\obj\Debug\Medit.Framework.ConsoleTest.csprojResolveAssemblyReference.cache
+D:\personal\project\Medit.Framework\src\Medit.Framework\Medit.Framework.ConsoleTest\obj\Debug\Medit.Framework.ConsoleTest.csproj.CoreCompileInputs.cache
+D:\personal\project\Medit.Framework\src\Medit.Framework\Medit.Framework.ConsoleTest\obj\Debug\Medit.Framework.ConsoleTest.csproj.CopyComplete
+D:\personal\project\Medit.Framework\src\Medit.Framework\Medit.Framework.ConsoleTest\obj\Debug\Medit.Framework.ConsoleTest.exe
+D:\personal\project\Medit.Framework\src\Medit.Framework\Medit.Framework.ConsoleTest\obj\Debug\Medit.Framework.ConsoleTest.pdb

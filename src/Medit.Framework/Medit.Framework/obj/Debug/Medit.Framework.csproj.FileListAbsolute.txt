@@ -1,0 +1,5 @@
+D:\personal\project\Medit.Framework\src\Medit.Framework\Medit.Framework\bin\Debug\Medit.Framework.dll
+D:\personal\project\Medit.Framework\src\Medit.Framework\Medit.Framework\bin\Debug\Medit.Framework.pdb
+D:\personal\project\Medit.Framework\src\Medit.Framework\Medit.Framework\obj\Debug\Medit.Framework.csproj.CoreCompileInputs.cache
+D:\personal\project\Medit.Framework\src\Medit.Framework\Medit.Framework\obj\Debug\Medit.Framework.dll
+D:\personal\project\Medit.Framework\src\Medit.Framework\Medit.Framework\obj\Debug\Medit.Framework.pdb
