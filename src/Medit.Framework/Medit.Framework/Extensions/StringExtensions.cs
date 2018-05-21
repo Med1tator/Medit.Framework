@@ -10,7 +10,7 @@ namespace Medit.Framework.Extensions
     /// <summary>
     /// 字符串数据类型扩展方法
     /// </summary>
-    public static class StringExtensions 
+    public static class StringExtensions
     {
         /// <summary>
         /// 转字符串 如果对象为null,则返回null.
@@ -66,6 +66,29 @@ namespace Medit.Framework.Extensions
                 result = char.IsLower(chars[0]);
             }
             return result;
+        }
+
+        /// <summary>
+        /// 转化成Boolean 包含:true/false、1/0、是/否
+        /// </summary>
+        /// <param name="str"></param>
+        /// <returns></returns>
+        public static bool ConvertToBoolean(this string str)
+        {
+            if (string.IsNullOrWhiteSpace(str))
+                return false;
+
+            switch (str.Trim().ToLower())
+            {
+
+                case "true":
+                case "是":
+                case "1":
+                    return true;
+
+                default: return false;
+            }
+
         }
 
         #region 汉字转拼音
@@ -219,7 +242,7 @@ namespace Medit.Framework.Extensions
                 }
             }
             return result;//返回获取到的汉字拼音
-        } 
+        }
         #endregion
     }
 }
